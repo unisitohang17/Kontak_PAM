@@ -1,6 +1,6 @@
 # Kontak App
 
-Aplikasi sederhana menampilkan dan mencari kontak_PAM dengan Reach Native <br>
+Aplikasi sederhana menampilkan dan mencari kontak dengan Reach Native <br>
 Nama Aplikasi : Kontak App <br>
 Tanggal Pembuatan : 2 Mei 2022 <br>
 
