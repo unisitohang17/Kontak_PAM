@@ -23,7 +23,7 @@ Link : <a href="https://bit.ly/kontak-app">Klik disini </a>
 1. Clone repository ini dengan menjalankan perintah berikut <br>
 
    ```
-   $ git clone https://github.com/unisitohang17/kontak.git
+   $ git clone https://github.com/unisitohang17/Kontak-PAM.git
 
 2. Install npm, kemudian jalankan perintah berikut pada cmd <br>
    ```
